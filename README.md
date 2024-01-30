@@ -1,5 +1,7 @@
 
-# Gestão de Pessoas - Programadores
+# Projeto de Exercício - Vai na Web
+
+## Gestão de Pessoas - Programadores
 
 Esse projeto é um pequeno exercício do curso Vai na Web, onde coloco em prática meus conhecimentos sobre UML e abtração com a linguagem JAVA.
 
